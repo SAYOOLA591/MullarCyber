@@ -1,11 +1,8 @@
-# Hello, I'm Sayo
+# Hello, I'm Sayo!
 <a href="https://www.linkedin.com/in/sayosoc123"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As a proactive security analyst, I thrive on challenges and am committed to achieving both personal and professional goals. With extensive experience in detecting and analyzing suspicious events, I excel in problem-solving. I bring versatility and the ability to handle sensitive materials to the table. My proven track record includes successful collaboration with stakeholders at all levels, from executive leadership to legal teams, IT, and internal audit, in achieving organizational information security governance and compliance.
-
-## Objective
 I'm passionate about cybersecurity and want to help organizations protect their data. I'm excited to learn more about cybersecurity and how to keep people safe online.
-I'm looking for Security Operation (SOC) Analyst role where I can learn and grow more. I'm a quick learner and I'm eager to contribute to a team.
+My projects focus on Security Operations Center (SOC) simulation labs, Check them out to see how I’ve enhanced security operations and processes.
 
 ## 👨‍💻 Projects:
 
