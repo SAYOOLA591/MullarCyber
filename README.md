@@ -8,7 +8,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OPEN-CTI's Threat Detection And Response Capabilities          | <a href="https://google.com">CTI Integrations Lab</a>|
+| OPEN-CTI's Threat Detection And Response Capabilities          | <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integrations Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
