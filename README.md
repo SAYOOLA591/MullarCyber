@@ -44,5 +44,5 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 </div>
 
 ## 👨‍💻 Projects:
-- Detection Lab
+- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integrations Lab</a>
 - SOC Automation Project
