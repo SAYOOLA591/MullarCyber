@@ -23,9 +23,12 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint/ Threat Intelligent & Management
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-808080?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ### SIEM
