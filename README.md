@@ -9,7 +9,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | OPEN-CTI's Threat Detection And Response Capabilities          | <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>|
-| Network Analysis & Packet Capture (Arkime) | <a href="https://google.com">Detection Lab</a>|
+| Network Analysis & Packet Capture (Arkime) | <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | ⚠️ Vulnerability Management Projects          | SOC Automation Lab|
@@ -47,5 +47,5 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 </div>
 
 ## 👨‍💻 Projects:
-- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Project</a>
+- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Detection Lab Project</a>
