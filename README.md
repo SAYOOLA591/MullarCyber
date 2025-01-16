@@ -48,4 +48,4 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 
 ## 👨‍💻 Projects:
 - <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Project</a>
-- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Project</a>
+- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Real-Time Network Monitoring with Arkime Project</a>
