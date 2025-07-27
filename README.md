@@ -6,7 +6,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 
 ## 👨‍💻 Projects:
 
-| Security Operations                            | Associated Project     |
+| Enterprise Security Operations                     | Associated Project     |
 |--------------------------------------------|----------------------------|
 | CTI Integration         | <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>|
 | Network Analysis & Packet Capture (Arkime) | <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab</a>|
