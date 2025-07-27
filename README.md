@@ -13,7 +13,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
-| ⚠️ Vulnerability Management Projects                            | Associated Project     |
+| ⚠️ Vulnerability Management Projects             | Associated Project     |
 |-----------------------------------------------|----------------------------|
 | ⚠️ Vulnerability Management Projects          | SOC Automation Lab|
 
