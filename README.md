@@ -15,6 +15,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 
 | Security Operations and Threat Hunting             | Associated Project     |
 |--------------------------------------------|----------------------------|
+| **Microsoft Azure HoneyPot** | Associated Project |
 
 | ⚠️ Vulnerability Management Projects             | Associated Project     |
 |--------------------------------------------|----------------------------|
