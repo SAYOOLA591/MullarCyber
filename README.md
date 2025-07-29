@@ -13,9 +13,9 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
-| Security Operations and Threat Hunting             | Associated Project     |
-|--------------------------------------------|----------------------------|
-| **Microsoft Azure HoneyPot** | Associated Project |
+## 👨‍💻 Security Operation and Threat Hunting Projects:
+- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">Microsoft Azure HoneyPot</a>
+
 
 | ⚠️ Vulnerability Management Projects             | Associated Project     |
 |--------------------------------------------|----------------------------|
