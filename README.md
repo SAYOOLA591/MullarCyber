@@ -49,7 +49,3 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 <img src="https://img.shields.io/badge/-SC--200-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
-
-## 👨‍💻 Projects:
-- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Project</a>
-- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Real-Time Network Monitoring with Arkime Project</a>
