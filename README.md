@@ -4,22 +4,19 @@
 I'm passionate about cybersecurity and want to help organizations protect their data. I'm excited to learn more about cybersecurity and how to keep people safe online.
 My projects focus on Security Operations Center (SOC) simulation labs, Check them out to see how I’ve enhanced security operations and processes.
 
-## 👨‍💻 Projects:
+##
 
-| Enterprise Security Operations                     | Associated Project     |
-|--------------------------------------------|----------------------------|
-| CTI Integration         | <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>|
-| Network Analysis & Packet Capture (Arkime) | <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## 👨‍💻 Security Operation and Threat Hunting Projects:
-- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">Microsoft Azure HoneyPot</a>
+- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>
+- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab</a>
+- <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot</a>
 
 
-| ⚠️ Vulnerability Management Projects             | Associated Project     |
-|--------------------------------------------|----------------------------|
-| ⚠️ Vulnerability Management Projects          | SOC Automation Lab|
+## ⚠️ Vulnerability Management Projects:
+
+
+##
 
 ## 🧰 Tools
 
