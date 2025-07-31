@@ -4,7 +4,7 @@
 I'm passionate about cybersecurity and want to help organizations protect their data. I'm excited to learn more about cybersecurity and how to keep people safe online.
 My projects focus on Security Operations Center (SOC) simulation labs, Check them out to see how I’ve enhanced security operations and processes.
 
-##
+---
 
 
 ## 👨‍💻 Security Operation and Threat Hunting Projects:
@@ -16,7 +16,7 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 ## ⚠️ Vulnerability Management Projects:
 
 
-##
+---
 
 ## 🧰 Tools
 
@@ -49,3 +49,8 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 <img src="https://img.shields.io/badge/-SC--200-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
+
+
+
+
+
