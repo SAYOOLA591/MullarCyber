@@ -8,9 +8,9 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 
 
 ## 👨‍💻 Security Operation and Threat Hunting Projects:
-- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab</a>
-- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab</a>
-- <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot</a>
+- <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab: OpenCTI Integrate With Splunk & AlienVault connectors</a>
+- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab: ARKIME Packet Capture</a>
+- <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot: Cowrie & Windows Deployement</a>
 
 
 ## ⚠️ Vulnerability Management Projects:
