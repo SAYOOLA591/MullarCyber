@@ -12,6 +12,8 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 - <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab: ARKIME Packet Capture</a>
 - <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot: Cowrie & Windows Deployement</a>
 - **Capturing Live Attackers TTPs to enhanced the Soc Capabilities**
+---
+
 
 
 ## ⚠️ Vulnerability Management Projects:
