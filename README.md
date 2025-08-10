@@ -7,15 +7,14 @@ My projects focus on Security Operations Center (SOC) simulation labs, Check the
 ---
 
 
-## 👨‍💻 Security Operation and Threat Hunting Projects:
+## 👨‍💻 CyberSecurity Project :
 - <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab: OpenCTI Integrate With Splunk & AlienVault connectors</a>
-- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab: ARKIME Packet Capture</a>
-- <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot: Cowrie & Windows Deployement</a>
-- Capturing Live Attackers TTPs and Enforcing Regulatory Compliance to enhanced the SOC Capabilities
+- <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab: ARKIME Packet Capture</a>(Live Capturing)
+- <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot: Cowrie & Windows Deployement</a> (Live Traffic)
 ---
 
 
----
+
 
 ## 🧰 Tools
 
