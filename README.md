@@ -1,8 +1,7 @@
 # Hello, I'm Sayo!
 <a href="https://www.linkedin.com/in/sayosoc123"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm passionate about cybersecurity and want to help organizations protect their data. I'm excited to learn more about cybersecurity and how to keep people safe online.
-My projects focus on Security Operations Center (SOC) simulation labs, Check them out to see how I’ve enhanced security operations and processes.
+I'm passionate about cybersecurity and want to help organizations protect their data. My projects focus on Security Operations Centre (SOC) simulation labs. Take a look to see how I’ve enhanced security operations and processes.
 
 ---
 
