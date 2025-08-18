@@ -5,8 +5,17 @@ I'm passionate about cybersecurity and want to help organizations protect their 
 
 ---
 
+## 
 
-## 👨‍💻 Cybersecurity Project :
+## 👨‍💻 Projects :
+
+## Enterprise Security Operation Projects (Detection LAB)
+
+- Full Detection Lab simulating real security operations for enterprise environments, offering hands-on detection for network, endpoint, and Active Directory attacks.
+
+
+## Associated Projects
+
 - <a href="https://github.com/mullarcyber/CTI-Integrations-Lab/blob/main/README.md">CTI Integration Lab: OpenCTI Integrate With Splunk & AlienVault Connectors</a>
 - <a href="https://github.com/mullarcyber/Network-Analysis-Packet-Capture-Arkime-/blob/main/README.md">Network Monitoring Lab: ARKIME Packet Capture</a>(Live Capturing)
 - <a href="https://github.com/SAYOOLA591/Microsoft-Azure-HoneyPot/blob/main/README.md">Microsoft Azure HoneyPot: Cowrie & Windows Deployement</a> (Live Traffic)
