@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and want to help organizations protect their 
 
 ## 👨‍💻 Projects :
 
-## Enterprise Security Operation Projects (Detection LAB)
+## Detection LAB
 
 - <a href="https://github.com/SAYOOLA591/entsecops">Enterprise Infrastructure Homelab Simulate
 - Full Detection Lab simulating real security operations for enterprise environments, offering hands-on detection for network, endpoint, and Active Directory attacks.
